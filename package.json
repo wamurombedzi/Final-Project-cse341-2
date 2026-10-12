@@ -1,14 +1,14 @@
 {
-  "name": "final-projectt-cse341",
+  "name": "final-project-cse341",
   "version": "1.0.0",
   "description": "Final Project",
-  "homepage": "https://github.com/wamurombedzi/Final-Projectt-cse341#readme",
+  "homepage": "https://github.com/wamurombedzi/Final-Project-cse341#readme",
   "bugs": {
-    "url": "https://github.com/wamurombedzi/Final-Projectt-cse341/issues"
+    "url": "https://github.com/wamurombedzi/Final-Project-cse341/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wamurombedzi/Final-Projectt-cse341.git"
+    "url": "git+https://github.com/wamurombedzi/Final-Project-cse341.git"
   },
   "license": "ISC",
   "author": "Wadzanai Murombedzi",
